@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mysia\'\s I-Tunes Application</string>
+    <string name="pop_title">Pop</string>
+    <string name="classic_title">Classic</string>
+    <string name="rock_title">Rock</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="backstreet_boys">Backstreet Boys</string>
+    <string name="everybody_backstreet_s_back">Everybody (Backstreet\'s Back)</string>
+    <string name="_2_99">2.99</string>
+    <string name="track_price">Track Price:</string>
+    <string name="refreshing">Refreshing</string>
+</resources>
